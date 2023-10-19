@@ -21,7 +21,9 @@
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
 ## Currently Projects
-TBA
+[#52NAVBARS Challenge](https://github.com/DevignLife/52NAVBARS/README.md)
+
+[DevignLife.com](https://devignlife.com)
 
 ## Currently Studying
 [Harvard CS50's Introduction to Programming with Python](https://www.edx.org/learn/python/harvard-university-cs50-s-introduction-to-programming-with-python)
