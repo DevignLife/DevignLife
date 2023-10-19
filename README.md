@@ -32,6 +32,10 @@
 
 
 ## Find Me On...
-TBA
+[@DevignLife on Facebook](https://www.facebook.com/profile.php?id=100091606017091)
+
+[@DevignLife on CodePen](https://codepen.io/DevignLife)
+
+[@DevignLife on GitHub](https://github.com/DevignLife)
 
 
