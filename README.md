@@ -20,16 +20,11 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
-## Currently Projects
-[#52NAVBARS Challenge](https://github.com/DevignLife/52NAVBARS/README.md)
-
+## Featured Projects
 [DevignLife.com](https://devignlife.com)
 
 ## Currently Studying
 [Harvard CS50's Introduction to Programming with Python](https://www.edx.org/learn/python/harvard-university-cs50-s-introduction-to-programming-with-python)
-
-[Harvard CS50's Introduction to Cybersecurity](https://www.edx.org/learn/cybersecurity/harvard-university-cs50-s-introduction-to-cybersecurity)
-
 
 ## Find Me On...
 [@DevignLife on Facebook](https://www.facebook.com/profile.php?id=100091606017091)
