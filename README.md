@@ -23,6 +23,10 @@
 ## Featured Projects
 [DevignLife.com](https://devignlife.com)
 
+## Current Challenges
+- 90 Day Portfolio Challenge (started 1/1/2024)
+- 52 Weeks of Networking (started 1/1/2024)
+
 ## Currently Studying
 [Harvard CS50's Introduction to Programming with Python](https://www.edx.org/learn/python/harvard-university-cs50-s-introduction-to-programming-with-python)
 
